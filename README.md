@@ -3,8 +3,8 @@
 <p align="center">Olá, eu sou Kaique Augusto, um desenvolvedor full stack com foco em tecnologias móveis. 👋 Atualmente, estou mergulhado no universo do desenvolvimento, explorando diversas tecnologias para criar soluções de alta qualidade. De backend com Express e Node.js a frontend com React Native, sou apaixonado por desafios empolgantes. 🚀</p>&nbsp;
 
 <div align="center" style="margin-bottom:100px">
-  <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kaiqueaugusto&theme=radical&mode=weekly" />
-  <img width=40% align="center" src="https://github-readme-stats-git-main-kaiqueaugusto.vercel.app/api/top-langs/?username=kaiqueaugusto&show_icons=true&theme=radical&layout=compact" />
+  <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Zezoca29&theme=radical&mode=weekly" />
+  username=kaiqueaugusto&show_icons=true&theme=radical&layout=compact" />
 </div>
 
 &nbsp;
