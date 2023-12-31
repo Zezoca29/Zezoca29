@@ -1,6 +1,6 @@
 # Kaique Augusto
 
-<p align="center">Olá, eu sou Kaique Augusto, um apaixonado desenvolvedor de software. 👋 Atualmente, estou mergulhado no universo do desenvolvimento full stack, explorando diversas tecnologias para criar soluções de alta qualidade. De backend com Express e Node.js a frontend com React Native, estou sempre em busca de desafios empolgantes. 🚀</p>&nbsp;
+<p align="center">Olá, eu sou Kaique Augusto, um desenvolvedor full stack com foco em tecnologias móveis. 👋 Atualmente, estou mergulhado no universo do desenvolvimento, explorando diversas tecnologias para criar soluções de alta qualidade. De backend com Express e Node.js a frontend com React Native, sou apaixonado por desafios empolgantes. 🚀</p>&nbsp;
 
 <div align="center" style="margin-bottom:100px">
   <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kaiqueaugusto&theme=radical&mode=weekly" />
@@ -66,7 +66,8 @@
   </a> 
   <a href="mailto:seu.email@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a> 
+  </a>
 </div>&nbsp;&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+
