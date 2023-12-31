@@ -1,5 +1,3 @@
-# Kaique Augusto
-
 <p align="center">Olá, eu sou Kaique Augusto, um desenvolvedor full stack com foco em tecnologias móveis. 👋 Atualmente, estou mergulhado no universo do desenvolvimento, explorando diversas tecnologias para criar soluções de alta qualidade. De backend com Express e Node.js a frontend com React Native, sou apaixonado por desafios empolgantes. 🚀</p>&nbsp;
 
 <div align="center" style="margin-bottom:100px">
