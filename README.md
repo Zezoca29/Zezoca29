@@ -14,7 +14,7 @@
 
 ```typescript
 const kaique = {
-  role: "Senior Full Stack Developer",
+  role: "Software Engineer",
   location: "São Paulo, Brazil 🇧🇷",
   focus: ["Cloud Architecture", "Microservices", "DevOps"],
   currentlyLearning: ["AI/ML Integration", "Advanced K8s", "Serverless"],
